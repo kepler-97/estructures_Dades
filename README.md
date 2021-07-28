@@ -1,4 +1,4 @@
-# estructures_dades: 
+# Estructures_Dades: 
 
 
 En este sprint he aplicado las diferentes formas de estructurar y organizar diferentes tipos de datos: 
